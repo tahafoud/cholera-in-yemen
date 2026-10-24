@@ -1,0 +1,19 @@
+-BEGIN HEADER-
+NASA/POWER Source Native Resolution Climatology in LST
+45-year Meteorological and Solar Monthly & Annual Climatologies (January 1981 - December 2025) 
+Location: Latitude  14.5751   Longitude 44.3778 
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 2305.7 meters
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
+Parameter(s): 
+PRECTOTCORR         MERRA-2 Precipitation Corrected (mm/day) 
+PRECTOTCORR_SUM     MERRA-2 Precipitation Corrected Sum (mm/day) 
+QV2M                MERRA-2 Specific Humidity at 2 Meters (g/kg) 
+RH2M                MERRA-2 Relative Humidity at 2 Meters (%) 
+Message(s): 
+The requested parameters are computed for a custom climatological period (January 1981 - December 2025) 
+-END HEADER-
+PARAMETER,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+PRECTOTCORR,0.23,0.17,0.21,0.32,0.29,0.18,0.41,0.61,0.31,0.36,0.1,0.17,0.28
+PRECTOTCORR_SUM,7.27,4.71,6.42,9.5,8.88,5.35,12.61,19.0,9.19,11.12,3.05,5.37,102.49
+QV2M,5.52,6.02,6.86,7.36,6.91,6.27,8.64,9.19,6.6,5.06,4.93,5.0,6.53
+RH2M,45.12,44.32,45.11,44.9,37.81,31.59,45.46,48.92,36.64,35.6,39.58,42.68,41.49

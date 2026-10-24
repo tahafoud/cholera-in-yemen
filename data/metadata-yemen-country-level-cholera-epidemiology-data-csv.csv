@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2017-07-03T15:54:14.006619
+description,Description,Cholera epidemiological data at the country level in CSV format.
+format,File Format,CSV
+download_url,Download URL,https://docs.google.com/spreadsheets/d/1P0ob0sfz3xqG8u_dxT98YcVTMwzPSnya_qx6MbX-_Z8/pub?gid=27806487&single=true&output=csv
+id,Resource ID,06f74fb8-9194-476d-8d35-343f951c90f6
+last_modified,Updated,2025-08-26T10:43:53.995853
+metadata_modified,Metadata Updated,2025-12-03T10:25:14.323219
+microdata,Microdata,False
+dataset_id,Dataset ID,c12b27ea-5be4-4064-b87c-624cbbb7b1e1
+resource_type,Resource Type,api
+name,Resource Name,Yemen Country Level Cholera Epidemiology Data.csv
+mimetype,MIME Type,
+size,Size,23.8K

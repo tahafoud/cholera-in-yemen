@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2017-06-22T03:47:44.271325
+description,Description,Cholera epidemiological data at the governorate level in CSV format.
+format,File Format,CSV
+download_url,Download URL,https://docs.google.com/spreadsheets/d/1P0ob0sfz3xqG8u_dxT98YcVTMwzPSnya_qx6MbX-_Z8/pub?gid=0&single=true&output=csv
+id,Resource ID,27b2c21a-df58-4861-9b6e-d0b45a62da90
+last_modified,Updated,2025-08-26T10:43:53.995853
+metadata_modified,Metadata Updated,2026-01-22T10:27:57.076815
+microdata,Microdata,False
+dataset_id,Dataset ID,c12b27ea-5be4-4064-b87c-624cbbb7b1e1
+resource_type,Resource Type,api
+name,Resource Name,Yemen Governorate Level Cholera Epidemiology Data.csv
+mimetype,MIME Type,
+size,Size,175.9K
